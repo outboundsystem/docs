@@ -41,6 +41,13 @@
                 "pages": [
                   "services/cold-calling"
                 ]
+              },
+              {
+                "group": "Multi-channel",
+                "pages": [
+                  "services/multi-channel",
+                  "services/response-handling"
+                ]
               }
             ]
           },
