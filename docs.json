@@ -72,7 +72,8 @@
           {
             "group": "Playbooks & Frameworks",
             "pages": [
-              "playbooks/intent-plays"
+              "playbooks/intent-plays",
+              "playbooks/copy-frameworks"
             ]
           },
           {
