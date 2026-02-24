@@ -75,7 +75,10 @@
           },
           {
             "group": "Fit & Pricing",
-            "pages": []
+            "pages": [
+              "fit/ideal-client",
+              "fit/not-a-fit"
+            ]
           },
           {
             "group": "By Company Size",
