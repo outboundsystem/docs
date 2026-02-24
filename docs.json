@@ -53,7 +53,9 @@
           },
           {
             "group": "How We Work",
-            "pages": []
+            "pages": [
+              "onboarding"
+            ]
           },
           {
             "group": "Knowledge Base",
