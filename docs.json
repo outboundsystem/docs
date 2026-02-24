@@ -4,8 +4,8 @@
   "name": "Outbound System",
   "colors": {
     "primary": "#000000",
-    "light": "#1057FE",
-    "dark": "#1057FE"
+    "light": "#3671fb",
+    "dark": "#3671fb"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -45,9 +45,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "linkedin": "https://www.linkedin.com/company/outboundsystem/",
+      "website": "https://outboundsystem.com/"
     }
-  }
+  },
+  "description": "B2B outbound lead generation systems that book qualified meetings — cold email, LinkedIn, and multichannel playbooks backed by 44+ case studies."
 }
