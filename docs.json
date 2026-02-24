@@ -71,7 +71,9 @@
           },
           {
             "group": "Playbooks & Frameworks",
-            "pages": []
+            "pages": [
+              "playbooks/intent-plays"
+            ]
           },
           {
             "group": "Fit & Pricing",
