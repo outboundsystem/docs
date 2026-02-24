@@ -23,8 +23,9 @@
             "group": "Services",
             "pages": [
               "services/cold-email",
+              "services/cold-email/pricing",
               "services/cold-email/benchmarks",
-              "services/cold-email/pricing"
+              "services/linkedin"
             ]
           },
           {
