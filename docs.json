@@ -182,5 +182,9 @@
       "website": "https://outboundsystem.com/"
     }
   },
-  "description": "B2B outbound lead generation systems that book qualified meetings — cold email, LinkedIn, and multichannel playbooks backed by 44+ case studies."
+  "description": "B2B outbound lead generation systems that book qualified meetings — cold email, LinkedIn, and multichannel playbooks backed by 44+ case studies.",
+  "fonts": {
+    "family": "Open Sans",
+    "weight": 400
+  }
 }
