@@ -11,9 +11,54 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Home",
-        "pages": [
-          "overview"
+        "tab": "Navigation",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "overview"
+            ]
+          },
+          {
+            "group": "Services",
+            "pages": []
+          },
+          {
+            "group": "How We Work",
+            "pages": []
+          },
+          {
+            "group": "Knowledge Base",
+            "pages": []
+          },
+          {
+            "group": "Industries",
+            "pages": []
+          },
+          {
+            "group": "Playbooks & Frameworks",
+            "pages": []
+          },
+          {
+            "group": "Fit & Pricing",
+            "pages": []
+          },
+          {
+            "group": "By Company Size",
+            "pages": []
+          },
+          {
+            "group": "Locations",
+            "pages": []
+          },
+          {
+            "group": "Case Studies",
+            "pages": []
+          },
+          {
+            "group": "FAQ",
+            "pages": []
+          }
         ]
       }
     ]
