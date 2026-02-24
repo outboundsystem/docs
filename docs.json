@@ -22,7 +22,9 @@
           {
             "group": "Services",
             "pages": [
-              "services/cold-email"
+              "services/cold-email",
+              "services/cold-email/benchmarks",
+              "services/cold-email/pricing"
             ]
           },
           {
