@@ -78,7 +78,8 @@
             "pages": [
               "playbooks/intent-plays",
               "playbooks/copy-frameworks",
-              "playbooks/copy-templates"
+              "playbooks/copy-templates",
+              "playbooks/sales-nav-targeting"
             ]
           },
           {
