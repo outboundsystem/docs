@@ -15,6 +15,7 @@
         "groups": [
           {
             "group": "Overview",
+            "expanded": true,
             "pages": [
               "overview"
             ]
@@ -54,6 +55,7 @@
           },
           {
             "group": "How We Work",
+            "expanded": true,
             "pages": [
               "onboarding",
               "targeting",
@@ -63,6 +65,7 @@
           },
           {
             "group": "Knowledge Base",
+            "expanded": true,
             "pages": []
           },
           {
@@ -71,6 +74,7 @@
           },
           {
             "group": "Playbooks & Frameworks",
+            "expanded": true,
             "pages": [
               "playbooks/intent-plays",
               "playbooks/copy-frameworks",
@@ -88,10 +92,12 @@
           },
           {
             "group": "By Company Size",
+            "expanded": true,
             "pages": []
           },
           {
             "group": "Locations",
+            "expanded": true,
             "pages": []
           },
           {
