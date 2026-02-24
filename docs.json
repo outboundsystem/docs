@@ -21,6 +21,7 @@
           },
           {
             "group": "Services",
+            "expanded": true,
             "pages": [
               {
                 "group": "Cold Email",
