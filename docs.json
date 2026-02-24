@@ -21,7 +21,9 @@
           },
           {
             "group": "Services",
-            "pages": []
+            "pages": [
+              "cold-email"
+            ]
           },
           {
             "group": "How We Work",
