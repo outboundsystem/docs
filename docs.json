@@ -22,7 +22,7 @@
           {
             "group": "Services",
             "pages": [
-              "cold-email"
+              "services/cold-email"
             ]
           },
           {
