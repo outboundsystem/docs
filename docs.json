@@ -75,6 +75,7 @@
           },
           {
             "group": "Fit & Pricing",
+            "expanded": true,
             "pages": [
               "fit/ideal-client",
               "fit/not-a-fit"
