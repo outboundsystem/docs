@@ -79,7 +79,8 @@
               "playbooks/intent-plays",
               "playbooks/copy-frameworks",
               "playbooks/copy-templates",
-              "playbooks/sales-nav-targeting"
+              "playbooks/sales-nav-targeting",
+              "playbooks/industry-playbooks"
             ]
           },
           {
