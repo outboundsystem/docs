@@ -67,7 +67,8 @@
             "group": "Knowledge Base",
             "expanded": true,
             "pages": [
-              "knowledge-base/why-agencies-fail"
+              "knowledge-base/why-agencies-fail",
+              "knowledge-base/deliverability-guide"
             ]
           },
           {
