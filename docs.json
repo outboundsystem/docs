@@ -84,7 +84,8 @@
               "playbooks/copy-frameworks",
               "playbooks/copy-templates",
               "playbooks/sales-nav-targeting",
-              "playbooks/industry-playbooks"
+              "playbooks/industry-playbooks",
+              "playbooks/linkedin-profile-optimization"
             ]
           },
           {
