@@ -70,7 +70,9 @@
           {
             "group": "Knowledge Base",
             "expanded": true,
-            "pages": []
+            "pages": [
+              "knowledge-base/why-agencies-fail"
+            ]
           },
           {
             "group": "Industries",
