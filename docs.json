@@ -26,6 +26,7 @@
             "pages": [
               {
                 "group": "Cold Email",
+                "expanded": true,
                 "pages": [
                   "services/cold-email",
                   "services/cold-email/pricing",
@@ -34,18 +35,21 @@
               },
               {
                 "group": "LinkedIn Outreach",
+                "expanded": true,
                 "pages": [
                   "services/linkedin"
                 ]
               },
               {
                 "group": "Cold Calling",
+                "expanded": true,
                 "pages": [
                   "services/cold-calling"
                 ]
               },
               {
                 "group": "Multi-channel",
+                "expanded": true,
                 "pages": [
                   "services/multi-channel",
                   "services/response-handling"
