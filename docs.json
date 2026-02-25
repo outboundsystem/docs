@@ -68,27 +68,8 @@
             "expanded": true,
             "pages": [
               "knowledge-base/why-agencies-fail",
-              "knowledge-base/deliverability-guide"
-            ]
-          },
-          {
-            "group": "Industries",
-            "pages": [
-              "industries/index",
-              "industries/saas",
-              "industries/agencies",
-              "industries/ai-machine-learning",
-              "industries/financial-services",
-              "industries/advertising-media",
-              "industries/staffing-recruiting",
-              "industries/healthcare",
-              "industries/manufacturing",
-              "industries/it-services",
-              "industries/video-production",
-              "industries/energy-sustainability",
-              "industries/ecommerce-retail",
-              "industries/events",
-              "industries/construction"
+              "knowledge-base/deliverability-guide",
+              "knowledge-base/linkedin-safety"
             ]
           },
           {
@@ -125,6 +106,26 @@
             "group": "Locations",
             "expanded": true,
             "pages": []
+          },
+          {
+            "group": "Industries",
+            "pages": [
+              "industries/index",
+              "industries/saas",
+              "industries/agencies",
+              "industries/ai-machine-learning",
+              "industries/financial-services",
+              "industries/advertising-media",
+              "industries/staffing-recruiting",
+              "industries/healthcare",
+              "industries/manufacturing",
+              "industries/it-services",
+              "industries/video-production",
+              "industries/energy-sustainability",
+              "industries/ecommerce-retail",
+              "industries/events",
+              "industries/construction"
+            ]
           },
           {
             "group": "Case Studies",
