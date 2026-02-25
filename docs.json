@@ -114,7 +114,8 @@
             "pages": [
               "company-size/index",
               "company-size/enterprise",
-              "company-size/smb"
+              "company-size/smb",
+              "company-size/startup"
             ]
           },
           {
