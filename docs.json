@@ -85,7 +85,10 @@
               "playbooks/copy-templates",
               "playbooks/sales-nav-targeting",
               "playbooks/industry-playbooks",
-              "playbooks/linkedin-profile-optimization"
+              "playbooks/linkedin-profile-optimization",
+              "playbooks/sales-narrative-framework",
+              "playbooks/live-sales-call-execution",
+              "playbooks/objection-handling"
             ]
           },
           {
