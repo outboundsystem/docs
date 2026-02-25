@@ -70,7 +70,23 @@
           },
           {
             "group": "Industries",
-            "pages": []
+            "pages": [
+              "industries/index",
+              "industries/saas",
+              "industries/agencies",
+              "industries/ai-machine-learning",
+              "industries/financial-services",
+              "industries/advertising-media",
+              "industries/staffing-recruiting",
+              "industries/healthcare",
+              "industries/manufacturing",
+              "industries/it-services",
+              "industries/video-production",
+              "industries/energy-sustainability",
+              "industries/ecommerce-retail",
+              "industries/events",
+              "industries/construction"
+            ]
           },
           {
             "group": "Playbooks & Frameworks",
